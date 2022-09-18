@@ -11,7 +11,7 @@
   - Used Only **Html** and **CSS**
   - I used flexbox and media queries to make the section mobile responsive.
   - I learned a lot about flexbox and position combined.
-  - Learned a lot about grid by creating the header section.
+  - I learned a lot about grids by creating the header section.
 
   <br>
 
@@ -19,4 +19,4 @@
 
 <br>
 
-> ## It took around 5 hours to complete and make this project **Mobiile** Responsive.
+> ## It took around 5 hours to complete and make this project **Mobile** Responsive.
